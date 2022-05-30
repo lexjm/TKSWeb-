@@ -46,9 +46,9 @@
 ## 🤩 Features
 
 - ⚡ **Next.js** - React framework for static rendering
-- 🤩 **Best SEO setup** - Meta Tags, JSON-LD and Open Graph Tags
-- 🦒 **[Tina CMS](https://tina.io/) integration** - local & (optional) production CMS
-- ✅ **Optimized for Web Vitals**
+- 🤩 **[Gmail](https://mail.google.com/)  Mail TKS**
+- 🦒 **[Help Center](https://az.tkspanama.com/hc/es) Centro de ayuda** - local & (optional) production CMS
+- ✅ **[Github](https://github.com/l)  Repositorios** 
 - 📜 **Blog with MDX**
 - 📫 **Mailchimp Integration** - for newsletters
 - 🗳 **Sendgrid Integration** - for sending emails
